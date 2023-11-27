@@ -1,0 +1,43 @@
+[
+    {
+        "id": "secundaria premium-01",
+        "titulo": "Curso de I.A.",
+        "imagen": "./img/secundaria premium/superpremium1.jpg",
+        "categoria": {
+            "nombre": "Secundaria Premium",
+            "id": "secundaria premium"
+        },
+        "precio": 540
+    },
+    {
+        "id": "secundaria premium-02",
+        "titulo": "Curso de Calculo II",
+        "imagen": "./img/secundaria premium/superpremium2.jpg",
+        "categoria": {
+            "nombre": "Secundaria Premium",
+            "id": "secundaria premium"
+        },
+        "precio": 180
+    },
+    {
+        "id": "secundaria premium-03",
+        "titulo": "Seminario de Python",
+        "imagen": "./img/secundaria premium/superpremium3.jpg",
+        "categoria": {
+            "nombre": "Secundaria Premium",
+            "id": "secundaria premium"
+        },
+        "precio": 150
+    },
+    {
+        "id": "secundaria premium-04",
+        "titulo": "Curso de Ingles",
+        "imagen": "./img/secundaria premium/superpremium4.jpg",
+        "categoria": {
+            "nombre": "Secundaria Premium",
+            "id": "secundaria premium"
+        },
+        "precio": 200
+    }
+
+]
